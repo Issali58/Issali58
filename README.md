@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Issali58
-- 👀 I’m interested in coding in python, JavaScript and collaboration with other people in projects.
+- 👀 I’m interested in cloud computing using AWS, LINUX, coding in python, JavaScript and collaboration with other people in projects.
 - 🌱 I’m currently learning python, django, css, html, JavaScript 
 - 💞️ I’m looking to collaborate on python projects and learn more.
 - 📫 How to reach me my email is .
